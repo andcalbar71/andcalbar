@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am andcalbar71 on github.
+  * I am andcalbar (https://keybase.io/andcalbar) on keybase.
+  * I have a public key ASAs1uIb-kOG4KNjTQWaQan6gNmpR9EgBkOA3KE5lm-ULQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202cd6e21bfa4386e0a3634d059a41a9fa80d9a947d120064380dca139966f942d0a",
+      "host": "keybase.io",
+      "kid": "01202cd6e21bfa4386e0a3634d059a41a9fa80d9a947d120064380dca139966f942d0a",
+      "uid": "9498583e32b094610c680f7f86a63e19",
+      "username": "andcalbar"
+    },
+    "merkle_root": {
+      "ctime": 1725407792,
+      "hash": "7767dd466600102e463618dfa9c5f6e1b5bc3f01ab6c5bc3deec865abb7184605242db072b00f95e0c503f0e39c11b0aac4bf9931d76b9f38053fc21d157bdd2",
+      "hash_meta": "849fb993d872174c47624ba6e3176917a453f29744a5365356864714bf337bff",
+      "seqno": 26070438
+    },
+    "service": {
+      "entropy": "yg7yjZ3+tDrrLYgIRVPsjYWQ",
+      "name": "github",
+      "username": "andcalbar71"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.4.0"
+  },
+  "ctime": 1725407833,
+  "expire_in": 504576000,
+  "prev": "8d08eb624a9c707c7f4665517dbe8270e51824650fb80e8f0828cefee5d8d450",
+  "seqno": 6,
+  "tag": "signature"
+}
+```
+
+with the key [ASAs1uIb-kOG4KNjTQWaQan6gNmpR9EgBkOA3KE5lm-ULQo](https://keybase.io/andcalbar), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLNbiG/pDhuCjY00FmkGp+oDZqUfRIAZDgNyhOZZvlC0Kp3BheWxvYWTESpcCBsQgjQjrYkqccHx/RmVRfb6CcOUYJGUPuA6PCCjO/uXY1FDEIGEiE6HFFANcXglG3rCtJY8VxSgoYSVPWBZIE2UsXA2jAgHCo3NpZ8RAhBhspX/cKszM8xtElCZtOyoqcKIeSvp6y5urM8OYAG/tBAp890uPYUhgomEMuCM2Io3wTmlnEKk36zIQBxZBDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILNp9oDodvZtgJ4Ct7xfv8nRVK2kVxiJDx8ksrP33Au3o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/andcalbar
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id andcalbar
+```
